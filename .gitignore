@@ -1,0 +1,43 @@
+# IDEs and Editor files
+# IntelliJ IDEA
+.idea/
+
+# Eclipse project files
+.settings/
+*.classpath
+*.project
+*.launch
+
+# VSCode settings
+.vscode/
+
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.sql
+
+# Build directories
+target/
+build/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Temporary files created by the OS or editors
+*.swp  # Vim backup files
+*~  # Vim backup files
+*.bak
+*.tmp
+
+# Test or coverage output directories (JUnit, JaCoCo, etc.)
+test-outputs/
+*.gcda
