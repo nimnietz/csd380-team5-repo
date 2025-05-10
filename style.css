@@ -10,12 +10,11 @@ body {
 	background-color: #ecd4e8;
 	font-family: Arial, sans-serif;
 	margin: 2rem;
-  }
-  
-  blockquote {
+}
+
+blockquote {
 	border-left: 4px solid #333;
 	padding-left: 1rem;
 	color: #555;
 	font-style: italic;
-  }
-  
+}
